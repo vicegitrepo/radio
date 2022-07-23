@@ -1,2 +1,9 @@
 http://195.150.20.242:8000/rmf_fm
-http://zet-net-01.cdn.eurozet.pl:8400/
+http://195.150.20.242/rmf_maxxx
+http://radiostream.pl/tuba8936-1.mp3
+https://radiostream.pl/tuba10-1.mp3#TOK_FM
+http://ext03.ic.smcdn.pl:8000/3990-1.mp3
+http://zet-net-01.cdn.eurozet.pl:8400
+https://an.cdn.eurozet.pl/ant-waw.mp3
+http://radiostream.pl/tuba38-1.mp3
+https://pl03.cdn.eurozet.pl/plu-waw.mp3
